@@ -1,0 +1,12 @@
+# MUSICA
+public abstract class  instrumentoMusical {
+    String nombreistrumento;
+
+    public instrumentoMusical() {
+
+    }
+
+
+    public abstract void sonido();
+
+}
